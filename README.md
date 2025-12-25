@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**kaushalyabm5/kaushalyabm5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack Developer focused on building clean, scalable, and secure web systems.  
+I enjoy creating web systems inspired by minimalism and biomimicry — simple, natural, and elegant designs.  
+I care deeply about performance, architecture, and clarity — writing code that’s easy to maintain and hard to break.  
 
-Here are some ideas to get you started:
+🧠 Learning by building real-world products  
+⚙️ Strong focus on quality, structure, and long-term thinking  
+🚀 Open to impactful opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Interests: Superbikes 🏍️, Riding 🌄, Gym 💪, Boxing 🥊, Football ⚽  
+🎬 Movie & TV Genres: Sci-Fi, Drama, Action, Thriller, Dystopian
+
