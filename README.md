@@ -8,6 +8,6 @@ I care deeply about performance, architecture, and clarity — writing code that
 ⚙️ Strong focus on quality, structure, and long-term thinking  
 🚀 Open to impactful opportunities  
 
-✨ Interests: Superbikes 🏍️, Riding 🌄, Gym 💪, Boxing 🥊, Football ⚽  
+✨ Interests: Superbikes 🏍️, Riding 🌄, Gym 💪, Football ⚽  
 🎬 Movie & TV Genres: Sci-Fi, Drama, Action, Thriller, Dystopian
 
