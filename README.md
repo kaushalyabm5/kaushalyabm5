@@ -1,4 +1,5 @@
-![Gotham Hacker Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Kaushalya+%7C+Web+Developer;Hacker+of+The+Web;Gotham+Vibes+%F0%9F%94%92)
+
 
 ## About Me 🧑‍🚀
 
