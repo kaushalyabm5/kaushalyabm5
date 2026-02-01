@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Kaushalya+%7C+Web+Developer;Hacker+of+The+Web;Gotham+Vibes+%F0%9F%94%92)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=FRONTEND+DEVELOPER;Hacker+of+The+Web;Gotham+Vibes+%F0%9F%94%92)
 
 
 ## About Me 🧑‍🚀
