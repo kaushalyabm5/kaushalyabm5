@@ -1,4 +1,4 @@
-## About Me
+## About Me 🧑‍🚀
 
 I’m a Frontend Developer passionate about building beautiful, interactive, and user-friendly web interfaces.  
 I enjoy creating websites inspired by simplicity and elegance — clean designs that delight users and are easy to navigate.  
