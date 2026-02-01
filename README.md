@@ -10,3 +10,8 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 
 **✨ Interests:** Superbikes 🏍️, Riding 🌄, Movies 🎥, Gym 💪, Football ⚽  
 **🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
