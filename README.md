@@ -13,7 +13,7 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 **🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian
 
 <br>
-<br>
+
 
 ## My Toolbox 🧰
 
