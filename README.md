@@ -1,6 +1,6 @@
-## About Me 🧑‍🚀
-![Header Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Gotham Hacker Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
+## About Me 🧑‍🚀
 
 I’m a Frontend Developer passionate about building beautiful, interactive, and user-friendly web interfaces.  
 I enjoy creating websites inspired by simplicity and elegance — clean designs that delight users and are easy to navigate.  
