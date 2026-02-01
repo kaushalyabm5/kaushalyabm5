@@ -12,7 +12,8 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 **✨ Interests:** Superbikes 🏍️, Riding 🌄, Movies 🎥, Gym 💪, Football ⚽  
 **🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian
 
-
+<br>
+<br>
 
 ## My Toolbox 🧰
 
@@ -27,12 +28,14 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+<br>
 
 ## Contact Me 📫 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalya-u-945763252/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayashansmk.22@uom.lk) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kaushalya-portfolio.netlify.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000)](https://kaushalya-portfolio.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94741137308)
 
 
