@@ -1,7 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=FRONTEND+DEVELOPER;Hacker+of+The+Web;Gotham+Vibes+%F0%9F%94%92)
-
-
 ## About Me 🧑‍🚀
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=💻+FRONTEND+DEVELOPER)
 
 I’m a Frontend Developer passionate about building beautiful, interactive, and user-friendly web interfaces.  
 I enjoy creating websites inspired by simplicity and elegance — clean designs that delight users and are easy to navigate.  
