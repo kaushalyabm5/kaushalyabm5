@@ -28,12 +28,13 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Contact Me 📫 
+## 💻 Contact Me 📫
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalya-u-945763252/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayashansmk.22@uom.lk) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kaushalya-portfolio.netlify.app/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94741137308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalya-u-945763252/) 
+[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayashansmk.22@uom.lk) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kaushalya-portfolio.netlify.app/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-FFFF00?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/94741137308)
+
 
 
 
