@@ -8,5 +8,5 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 - ⚡ Focused on clean code, modern tools, and smooth user experiences
 - 🚀 Open to creative and challenging opportunities
 
-**✨ Interests:** Superbikes 🏍️, Riding 🌄, Gym 💪, Football ⚽  
+**✨ Interests:** Superbikes 🏍️, Riding 🌄, Movies 🎥, Gym 💪, Football ⚽  
 **🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian
