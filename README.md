@@ -13,6 +13,7 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 
 
 ## My Toolbox 🧰
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" />
@@ -24,3 +25,4 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" title="SQL" />
+</div>
