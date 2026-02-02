@@ -38,12 +38,20 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000)](https://kaushalya-portfolio.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94741137308)
 
-<!-- GitHub Stats -->
-## 📊 My GitHub Stats
+## GitHub Profile Stats 📊
 
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight)
 
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=kaushalyabm5&layout=compact&theme=tokyonight)
+
+<!-- Streak Stats -->
 ![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight)
+
+![🔥 My Profile Card](https://animated-profile-stats.vercel.app/api/card?username=kaushalyabm5&type=fire)
+
+
 
 
 
