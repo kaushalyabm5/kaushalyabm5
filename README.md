@@ -44,12 +44,11 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=kaushalyabm5&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalyabm5&layout=compact&theme=tokyonight)
 
 <!-- Streak Stats -->
 ![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight)
 
-![🔥 My Profile Card](https://animated-profile-stats.vercel.app/api/card?username=kaushalyabm5&type=fire)
 
 
 
