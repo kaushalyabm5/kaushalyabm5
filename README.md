@@ -46,9 +46,7 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 <!-- Streak Stats -->
 ![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight)
 
-
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=dracula)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
