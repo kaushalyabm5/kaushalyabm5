@@ -41,11 +41,10 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 <!-- GitHub Stats -->
 ## 📊 My GitHub Stats
 
-![Kaushalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalyabm5&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalyabm5&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushalyabm5&theme=radical)
 
 
 
