@@ -10,7 +10,7 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 - 🚀 Open to creative and challenging opportunities
 
 **✨ Interests:** Superbikes 🏍️, Riding 🌄, Movies 🎥, Gym 💪, Football ⚽  
-**🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian
+**🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian␣␣  
 **📺 Favorite TV Series:** The 100
 
 <br>
