@@ -12,11 +12,11 @@
 - Modern tools, clean code, smooth UX
 - Always open to new challenges
 
+<!-- Interests Table -->
+<div style="background-color:#0b0f14; color:#7CFF7C; padding:15px; border-radius:10px; font-family:'Fira Code', monospace; margin-bottom:12px;">
 <table>
   <tr>
     <th align="left">Interests</th>
-    <th align="left">Genres</th>
-    <th align="left">Favorite TV Series</th>
   </tr>
   <tr>
     <td>
@@ -26,6 +26,17 @@
       ▸ Gym 💪<br>
       ▸ Football ⚽
     </td>
+  </tr>
+</table>
+</div>
+
+<!-- Genres Table -->
+<div style="background-color:#0b0f14; color:#7CFF7C; padding:15px; border-radius:10px; font-family:'Fira Code', monospace; margin-bottom:12px;">
+<table>
+  <tr>
+    <th align="left">Genres</th>
+  </tr>
+  <tr>
     <td>
       ▸ Sci-Fi<br>
       ▸ Drama<br>
@@ -33,11 +44,24 @@
       ▸ Thriller<br>
       ▸ Dystopian
     </td>
+  </tr>
+</table>
+</div>
+
+<!-- Favorite TV Series Table -->
+<div style="background-color:#0b0f14; color:#7CFF7C; padding:15px; border-radius:10px; font-family:'Fira Code', monospace; margin-bottom:12px;">
+<table>
+  <tr>
+    <th align="left">Favorite TV Series</th>
+  </tr>
+  <tr>
     <td>
       ▸ The 100
     </td>
   </tr>
 </table>
+</div>
+
 
 </pre>
 
