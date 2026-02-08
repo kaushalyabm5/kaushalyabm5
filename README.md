@@ -1,5 +1,4 @@
 ## About Me 🧑‍🚀
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=💻+FRONTEND+DEVELOPER)
 
 <div style="background-color:#0d1117; color:#39ff14; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; font-size:14px; line-height:1.6;">
 
