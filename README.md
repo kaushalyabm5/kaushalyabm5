@@ -42,11 +42,19 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 
 ## GitHub Profile Stats 📊
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight)
+## GitHub Profile Stats 📊
 
-<!-- Streak Stats -->
-![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight)
+<div align="center">
+  <img
+    src="https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight"
+    width="48%"
+  />
+</div>
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
