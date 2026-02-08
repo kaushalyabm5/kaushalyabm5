@@ -40,20 +40,21 @@ I care deeply about performance, responsiveness, and maintainable code — writi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000)](https://kaushalya-portfolio.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94741137308)
 
-## GitHub Profile Stats 📊
+
 
 ## GitHub Profile Stats 📊
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight"
-    width="48%"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.zcy.dev/api?username=kaushalyabm5&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kaushalyabm5&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
