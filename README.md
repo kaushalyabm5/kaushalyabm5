@@ -83,7 +83,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-![Visitors](https://komarev.com/ghpvc/?username=kaushalyabm5&color=brightgreen)
+
 
 
 
