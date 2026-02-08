@@ -12,22 +12,33 @@
 - Modern tools, clean code, smooth UX
 - Always open to new challenges
 
-Interests:
-  ▸ Superbikes 🏍️
-  ▸ Riding 🌄
-  ▸ Movies 🎥
-  ▸ Gym 💪
-  ▸ Football ⚽
+<table>
+  <tr>
+    <th align="left">Interests</th>
+    <th align="left">Genres</th>
+    <th align="left">Favorite TV Series</th>
+  </tr>
+  <tr>
+    <td>
+      ▸ Superbikes 🏍️<br>
+      ▸ Riding 🌄<br>
+      ▸ Movies 🎥<br>
+      ▸ Gym 💪<br>
+      ▸ Football ⚽
+    </td>
+    <td>
+      ▸ Sci-Fi<br>
+      ▸ Drama<br>
+      ▸ Action<br>
+      ▸ Thriller<br>
+      ▸ Dystopian
+    </td>
+    <td>
+      ▸ The 100
+    </td>
+  </tr>
+</table>
 
-Genres:
-  ▸ Sci-Fi
-  ▸ Drama
-  ▸ Action
-  ▸ Thriller
-  ▸ Dystopian
-
-Favorite TV Series:
-  ▸ The 100
 </pre>
 
 </div>
