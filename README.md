@@ -1,6 +1,6 @@
 ## About Me 🧑‍🚀
 
-<div style="background-color:#0d1117; color:#39ff14; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; font-size:14px; line-height:1.6;">
+<div style="background-color:#0b0f14; color:#39ff14; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; font-size:14px; line-height:1.6;">
 
 <pre>
 👨‍💻 Frontend Developer
