@@ -5,13 +5,12 @@
 <pre>
 👨‍💻 Frontend Developer
 
-> Passionate about building beautiful, interactive, and user-friendly web interfaces.
-> Inspired by simplicity & elegance — clean designs that delight users.
-> Focused on performance, responsiveness, and maintainable code.
+> Frontend developer crafting elegant, high-performance web interfaces.
+> I care deeply about usability, simplicity, and clean architecture.
 
-- Learning by building real-world projects
-- Clean code, modern tools, smooth UX
-- Open to creative & challenging opportunities
+- Project-driven learning
+- Modern tools, clean code, smooth UX
+- Always open to new challenges
 
 Interests:
   ▸ Superbikes 🏍️
