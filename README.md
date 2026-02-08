@@ -1,18 +1,39 @@
 ## About Me 🧑‍🚀
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=💻+FRONTEND+DEVELOPER)
 
-I’m a Frontend Developer passionate about building beautiful, interactive, and user-friendly web interfaces.  
-I enjoy creating websites inspired by simplicity and elegance — clean designs that delight users and are easy to navigate.  
-I care deeply about performance, responsiveness, and maintainable code — writing frontend that’s fast, scalable, and enjoyable to work with.
+<div style="background-color:#0d1117; color:#39ff14; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; font-size:14px; line-height:1.6;">
 
-- 🧠 Learning by building real-world projects
-- ⚡ Focused on clean code, modern tools, and smooth user experiences
-- 🚀 Open to creative and challenging opportunities
+<pre>
+👨‍💻 Frontend Developer
 
-**✨ Interests:** Superbikes 🏍️, Riding 🌄, Movies 🎥, Gym 💪, Football ⚽  
-**🎬 Movie & TV Genres:** Sci-Fi, Drama, Action, Thriller, Dystopian
-<br>
-**📺 Favorite TV Series:** The 100
+> Passionate about building beautiful, interactive, and user-friendly web interfaces.
+> Inspired by simplicity & elegance — clean designs that delight users.
+> Focused on performance, responsiveness, and maintainable code.
+
+- Learning by building real-world projects
+- Clean code, modern tools, smooth UX
+- Open to creative & challenging opportunities
+
+Interests:
+  ▸ Superbikes 🏍️
+  ▸ Riding 🌄
+  ▸ Movies 🎥
+  ▸ Gym 💪
+  ▸ Football ⚽
+
+Genres:
+  ▸ Sci-Fi
+  ▸ Drama
+  ▸ Action
+  ▸ Thriller
+  ▸ Dystopian
+
+Favorite TV Series:
+  ▸ The 100
+</pre>
+
+</div>
+
 
 <br>
 
