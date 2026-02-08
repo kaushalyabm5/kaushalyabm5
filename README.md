@@ -12,55 +12,54 @@
 - Modern tools, clean code, smooth UX
 - Always open to new challenges
 
-<!-- Interests Table -->
-<div style="background-color:#0b0f14; color:#7CFF7C; padding:15px; border-radius:10px; font-family:'Fira Code', monospace; margin-bottom:12px;">
-<table>
-  <tr>
-    <th align="left">Interests</th>
-  </tr>
-  <tr>
-    <td>
-      ▸ Superbikes 🏍️<br>
-      ▸ Riding 🌄<br>
-      ▸ Movies 🎥<br>
-      ▸ Gym 💪<br>
-      ▸ Football ⚽
-    </td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-top:20px;">
+
+  <!-- Interests Table -->
+  <div style="background-color:#0b0f14; color:#7CFF7C; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; width:220px; height:220px; display:flex; flex-direction:column; justify-content:flex-start;">
+    <table>
+      <tr><th align="left">Interests</th></tr>
+      <tr>
+        <td>
+          ▸ Superbikes 🏍️<br>
+          ▸ Riding 🌄<br>
+          ▸ Movies 🎥<br>
+          ▸ Gym 💪<br>
+          ▸ Football ⚽
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Genres Table -->
+  <div style="background-color:#0b0f14; color:#7CFF7C; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; width:220px; height:220px; display:flex; flex-direction:column; justify-content:flex-start;">
+    <table>
+      <tr><th align="left">Genres</th></tr>
+      <tr>
+        <td>
+          ▸ Sci-Fi<br>
+          ▸ Drama<br>
+          ▸ Action<br>
+          ▸ Thriller<br>
+          ▸ Dystopian
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Favorite TV Series Table -->
+  <div style="background-color:#0b0f14; color:#7CFF7C; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; width:220px; height:220px; display:flex; flex-direction:column; justify-content:flex-start;">
+    <table>
+      <tr><th align="left">Favorite TV Series</th></tr>
+      <tr>
+        <td>
+          ▸ The 100
+        </td>
+      </tr>
+    </table>
+  </div>
+
 </div>
 
-<!-- Genres Table -->
-<div style="background-color:#0b0f14; color:#7CFF7C; padding:15px; border-radius:10px; font-family:'Fira Code', monospace; margin-bottom:12px;">
-<table>
-  <tr>
-    <th align="left">Genres</th>
-  </tr>
-  <tr>
-    <td>
-      ▸ Sci-Fi<br>
-      ▸ Drama<br>
-      ▸ Action<br>
-      ▸ Thriller<br>
-      ▸ Dystopian
-    </td>
-  </tr>
-</table>
-</div>
-
-<!-- Favorite TV Series Table -->
-<div style="background-color:#0b0f14; color:#7CFF7C; padding:15px; border-radius:10px; font-family:'Fira Code', monospace; margin-bottom:12px;">
-<table>
-  <tr>
-    <th align="left">Favorite TV Series</th>
-  </tr>
-  <tr>
-    <td>
-      ▸ The 100
-    </td>
-  </tr>
-</table>
-</div>
 
 
 </pre>
