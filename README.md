@@ -12,9 +12,35 @@
 - Modern tools, clean code, smooth UX
 - Always open to new challenges
 
+  <div style="display:flex; justify-content:center; gap:20px; margin-top:20px; flex-wrap:nowrap;">
 
+  <!-- Interests Card -->
+  <div style="background-color:#0b0f14; color:#7CFF7C; width:250px; height:250px; padding:20px; border-radius:12px; font-family:'Fira Code', monospace; box-shadow:0 5px 15px rgba(0,0,0,0.6);">
+    <h3 style="margin-top:0; margin-bottom:10px;">Interests</h3>
+    ▸ Superbikes 🏍️<br>
+    ▸ Riding 🌄<br>
+    ▸ Movies 🎥<br>
+    ▸ Gym 💪<br>
+    ▸ Football ⚽
+  </div>
 
+  <!-- Genres Card -->
+  <div style="background-color:#0b0f14; color:#7CFF7C; width:250px; height:250px; padding:20px; border-radius:12px; font-family:'Fira Code', monospace; box-shadow:0 5px 15px rgba(0,0,0,0.6);">
+    <h3 style="margin-top:0; margin-bottom:10px;">Genres</h3>
+    ▸ Sci-Fi<br>
+    ▸ Drama<br>
+    ▸ Action<br>
+    ▸ Thriller<br>
+    ▸ Dystopian
+  </div>
 
+  <!-- Favorite TV Series Card -->
+  <div style="background-color:#0b0f14; color:#7CFF7C; width:250px; height:250px; padding:20px; border-radius:12px; font-family:'Fira Code', monospace; box-shadow:0 5px 15px rgba(0,0,0,0.6);">
+    <h3 style="margin-top:0; margin-bottom:10px;">Favorite TV Series</h3>
+    ▸ The 100
+  </div>
+
+</div>
 
 </pre>
 
