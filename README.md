@@ -12,15 +12,14 @@
 - Modern tools, clean code, smooth UX
 - Always open to new challenges
 
-**Interests:**  
+Interests:
 🏍️ Superbikes, 🌄 Riding, 🎥 Movies, 💪 Gym, ⚽ Football  
 
-**Genres:**  
+Genres:  
 🛸 Sci-Fi, 🎭 Drama, 🔫 Action, 🕵️‍♂️ Thriller, 🌌 Dystopian  
 
-**Favorite TV Series:**  
+Favorite TV Series: 
 📺 The 100
-
 
 </pre>
 </div>
