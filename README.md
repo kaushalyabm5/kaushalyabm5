@@ -3,7 +3,7 @@
 <div style="background-color:#000000; color:#39ff14; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; font-size:14px; line-height:1.6;">
 
 <pre>
-👨‍💻 Frontend Developer
+## 👨‍💻 Frontend Developer
 
 > Frontend developer crafting elegant, high-performance web interfaces.
 > I care deeply about usability, simplicity, and clean architecture.
