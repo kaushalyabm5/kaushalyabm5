@@ -65,7 +65,7 @@ Favorite TV Series:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-![Views](https://hits.seaside.co/v1/github/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.svg)
+![Views](https://hits.seaside.co/v1/github/kaushalyabm5/kaushalyabm5.svg)
 
 
 
